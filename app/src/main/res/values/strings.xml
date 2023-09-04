@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Polygon Test</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="gps_error">The app must use GPS! \n\nPlease confirm the use of GPS and restart the application!</string>
+    <string name="confirm_gps">Please confirm the use of GPS</string>
+    <string name="turn_on_location">Please turn on location</string>
+    <string name="in_area">The device is located in the polygon area</string>
+    <string name="out_area">"The device is outside the polygon area\nThe distance is:</string>
+    <string name="select_file">Select a file</string>
+    <string name="polygon_found">"Polygon found\nClick the button to find the distance from the device"</string>
+    <string name="polygon_not_found">"Polygon not found\nPlease upload a valid KML file"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
